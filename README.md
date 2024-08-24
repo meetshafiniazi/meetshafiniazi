@@ -4,11 +4,11 @@ I’m interested in Web development.
 
 I’m currently learning React.
 
-I’m looking to collaborate on front-end of web development.
+I’m looking to collaborate on front-end web development.
 
 How to reach me : meetshafiniazi@gmail.com
 
-Pronouns: Niazi.
+Pronouns: he/him.
 
 Fun fact: Iam foodie and love to play video games.
 
